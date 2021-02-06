@@ -1,0 +1,14 @@
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  margin: 20px;
+}
+
+.btn > button {
+  height: fit-content;
+  width: fit-content;
+  font-size: large;
+}
